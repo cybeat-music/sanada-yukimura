@@ -1,0 +1,105 @@
+REM DATE 2024
+REM DISCID F90CF70E
+REM COMMENT "ExactAudioCopy v1.6"
+CATALOG 0602465837292
+PERFORMER "『ユイカ』"
+TITLE "紺色に憧れて"
+REM COMPOSER ""
+FILE "01 紺色に憧れて.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "紺色に憧れて"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02402524
+    INDEX 01 00:00:00
+FILE "02 すないぱー。.wav" WAVE
+  TRACK 02 AUDIO
+    TITLE "すないぱー。"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02400968
+    INDEX 01 00:00:00
+FILE "03 わがまま。.wav" WAVE
+  TRACK 03 AUDIO
+    TITLE "わがまま。"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02402525
+    INDEX 01 00:00:00
+FILE "04 そばにいて。.wav" WAVE
+  TRACK 04 AUDIO
+    TITLE "そばにいて。"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02103567
+    INDEX 01 00:00:00
+FILE "05 恋をしているみたいなの.wav" WAVE
+  TRACK 05 AUDIO
+    TITLE "恋をしているみたいなの"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02400149
+    INDEX 01 00:00:00
+FILE "06 イマジナリーフレンド.wav" WAVE
+  TRACK 06 AUDIO
+    TITLE "イマジナリーフレンド"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02400149
+    INDEX 01 00:00:00
+FILE "07 運命の人.wav" WAVE
+  TRACK 07 AUDIO
+    TITLE "運命の人"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02303434
+    INDEX 01 00:00:00
+FILE "08 嘘.wav" WAVE
+  TRACK 08 AUDIO
+    TITLE "嘘"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02303434
+    INDEX 01 00:00:00
+FILE "09 恋泥棒。.wav" WAVE
+  TRACK 09 AUDIO
+    TITLE "恋泥棒。"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02200527
+    INDEX 01 00:00:00
+FILE "10 スノードーム.wav" WAVE
+  TRACK 10 AUDIO
+    TITLE "スノードーム"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02303993
+    INDEX 01 00:00:00
+FILE "11 ひそかな願い。.wav" WAVE
+  TRACK 11 AUDIO
+    TITLE "ひそかな願い。"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02402528
+    INDEX 01 00:00:00
+FILE "12 桜想.wav" WAVE
+  TRACK 12 AUDIO
+    TITLE "桜想"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02402529
+    INDEX 01 00:00:00
+FILE "13 好きだから。.wav" WAVE
+  TRACK 13 AUDIO
+    TITLE "好きだから。"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02101687
+    INDEX 01 00:00:00
+FILE "14 あなたが知らない貴方のうた.wav" WAVE
+  TRACK 14 AUDIO
+    TITLE "あなたが知らない貴方のうた"
+    PERFORMER "『ユイカ』"
+    REM COMPOSER ""
+    ISRC JPPO02402889
+    INDEX 01 00:00:00
